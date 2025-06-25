@@ -1,6 +1,6 @@
 # Wonder-Women-Website
 
-🍿Preview - file:///C:/Users/stace/OneDrive/Documentos/Websites/Wonder%20Women/contact.html
+🍿Preview - ![Wonder Woman Website](https://github.com/user-attachments/assets/bb56e01b-4b91-461e-8d96-8c8144c91232)
 
 💭 Project - Just a Wonder Woman Website. While learning new concepts and progressing in my learning journey, I decided to come up with a Wonder Woman Website beacuse I love Wonder Woman and she is me and I am her. 
 
